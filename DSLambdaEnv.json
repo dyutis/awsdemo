@@ -1,0 +1,11 @@
+[{
+"keyname": "FDDemo",
+"secured":  false,
+"keyvalue": "FDDemoValue"
+},
+{
+"keyname": "FDDemoSec",
+"secured":  true,
+"keyvalue": "FDDemoSecuredValue"
+}
+]
