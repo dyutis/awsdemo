@@ -1,11 +1,11 @@
 [{
-"keyname": "FDDemo",
-"secured":  false,
-"keyvalue": "FDDemoValue"
+"keyName": "FDDemo",
+"secured":  "false",
+"keyValue": "FDDemoValue"
 },
 {
-"keyname": "FDDemoSec",
-"secured":  true,
-"keyvalue": "FDDemoSecuredValue"
+"keyName": "FDDemoSec",
+"secured":  "true",
+"keyValue": "FDDemoSecuredValue"
 }
 ]
