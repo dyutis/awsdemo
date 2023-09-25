@@ -6,6 +6,6 @@
 {
 "keyName": "FDDemoSec",
 "secured":  "true",
-"keyValue": "FDDemoSecuredValue"
+"keyValue": "${{LMDEMOSEC}}"
 }
 ]
